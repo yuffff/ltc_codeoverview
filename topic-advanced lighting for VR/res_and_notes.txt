@@ -1,0 +1,33 @@
+
+// topic: advanced rendering in the context of VR
+	expecially light effects(do not have to be pbrt, ray tracing)
+	魔幻现实，写实
+// 开发自己的渲染引擎，专为VR场景
+// 代码架构：
+	s:暂时混杂在一起，后续整理成库文件，再然后动态加载
+		可以拆分成基本物理，专业物理
+		基本渲染，专业渲染
+		
+	*s:commercial ready, research perpose ...
+
+how to render them? 
+	https://www.pinterest.de/pin/269090146455122866/
+	https://www.pinterest.de/pin/437412182539802482/
+	https://www.pinterest.de/pin/348606827402144937/
+
+routemap
+	understand basic lighting
+	add into my framework
+		make a lighting lib. on my framework  
+	read learning opengl, learn the theory 
+	add into my framework
+	provide advanced lighting api
+		diff. rendering model... also ref cgv tud framework. 
+	add to my framework as package "lightingvr" 
+	...
+
+good codes to ref. 
+	http://www.paulsprojects.net/opengl/defshad/defshad.html
+	https://code.google.com/archive/p/lightindexed-deferredrender/downloads
+	learning opengl (win32 only)
+	

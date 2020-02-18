@@ -1,0 +1,16 @@
+
+
+res:
+    cgv framework 
+    openvr proj. 
+
+routemap: 
+    understand by ref. the two 
+    add to my framework as package "interactvr" 
+    add more support: 
+        position dir.
+        music 
+        grasp
+        panel 
+        text (cgv frame.)
+        ...

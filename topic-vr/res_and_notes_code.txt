@@ -1,0 +1,24 @@
+
+// try them when necessary  
+
+unity 
+
+unreal 
+
+without framework 
+	ok-cgv tud - point cloud example, box example, obj movement 
+	over-ddiakopoulos / polymer 
+		too many err, due to libs?
+	over-https://github.com/Blubmin/vr_mesh_editor/tree/master/build
+		wrong proj file 
+	over-https://github.com/myluoxz/SketchMeshVR
+		wrong dep.
+	over-bulletphysics / bullet3
+		relative large...
+		require python 
+		not for vr initially
+	later-https://github.com/cosmoscout/cosmoscout-vr
+		Could NOT find Boost
+	later-https://github.com/AjayLimaye/lasVR
+		no spec. need to run it 
+	

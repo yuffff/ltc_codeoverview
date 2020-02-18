@@ -1,0 +1,21 @@
+
+    screen capture
+        通过wingdi接口
+            ok
+            detail::(无序随机理解为主)
+                ...
+        通过ffmpeg
+            麻烦
+            -
+        QTapi
+            库太大，减少依赖
+            -
+    clipboard 
+        OpenClipboard用于打开，相应的close关闭
+        GlobalLock lock first, then we can get it from lock class obj 
+        ...
+    music bass 
+    compression 
+    ...
+        
+        

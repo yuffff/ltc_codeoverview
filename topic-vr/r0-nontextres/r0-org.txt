@@ -1,0 +1,13 @@
+
+
+how to check update 
+	order by size
+where to zip 
+	the same folder -- easy to check update 
+	tip:del old zip first
+automized by a py script 
+	hard--how to zip with py
+	donot-del zip file after uploaded! 
+
+
+
