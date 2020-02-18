@@ -1,0 +1,13 @@
+
+	// 需要编译、调试，附加功能来验证理解
+	// only name lists included 
+
+	cg
+		nanogui 
+		cg3 fram.
+	音视频编码
+		https://blog.csdn.net/leixiaohua1020/article/details/46754977
+			ffmpeg
+	数据库
+		in mem db... 
+	
